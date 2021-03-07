@@ -1,8 +1,8 @@
 ﻿using System.IO;
 
-namespace ZipDependencyIncludeInVsixTask
+namespace ToolInstall
 {
-    public static class DirectoryHelper
+    internal static class DirectoryHelper
     {
         public static DirectoryInfo CreateTemporaryDirectory()
         {

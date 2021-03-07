@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Linq;
 
-namespace ZipDependencyIncludeInVsixTask
+namespace ToolInstall
 {
     internal static class ProcessExtensions
     {

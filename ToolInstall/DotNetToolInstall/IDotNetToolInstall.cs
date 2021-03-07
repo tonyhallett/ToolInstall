@@ -1,4 +1,4 @@
-﻿namespace ZipDependencyIncludeInVsixTask
+﻿namespace ToolInstall
 {
     public class DotNetToolInstallResult
     {

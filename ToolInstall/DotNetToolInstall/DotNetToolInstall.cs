@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace ZipDependencyIncludeInVsixTask
+namespace ToolInstall
 {
     public class DotNetToolInstall : IDotNetToolInstall
     {

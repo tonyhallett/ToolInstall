@@ -7,7 +7,7 @@ using NuGet.Protocol;
 using NuGet.Protocol.Core.Types;
 using NuGet.Versioning;
 
-namespace ZipDependencyIncludeInVsixTask
+namespace ToolInstall
 {
     public class NugetClientHelper : INugetClientHelper
     {

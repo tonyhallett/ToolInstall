@@ -2,7 +2,7 @@
 using System.IO;
 using System.IO.Compression;
 
-namespace ZipDependencyIncludeInVsixTask
+namespace ToolInstall
 {
     internal class ZipHelper : IZipHelper
     {

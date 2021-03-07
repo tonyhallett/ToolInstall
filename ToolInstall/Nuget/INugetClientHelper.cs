@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using NuGet.Versioning;
 
-namespace ZipDependencyIncludeInVsixTask
+namespace ToolInstall
 {
     public interface INugetClientHelper
     {

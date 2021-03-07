@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ZipDependencyIncludeInVsixTask
+namespace ToolInstall
 {
     public class DotNetToolInstallAndZip : IDotNetToolInstallAndZip
     {
