@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>.Net Standard api for dotnet tool install and helper for Nuget Client</Description>
+    <Authors>Tony Hallett</Authors>
+    <Company />
+    <RepositoryUrl>https://github.com/tonyhallett/ToolInstall.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Nuget dotnet tool</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/tonyhallett/ToolInstall</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NuGet.Packaging" Version="5.9.0" />
+    <PackageReference Include="NuGet.Protocol" Version="5.9.0" />
+  </ItemGroup>
+
+</Project>
